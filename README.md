@@ -1,0 +1,4 @@
+OpenMP
+======
+
+Projetos de OpenMP
